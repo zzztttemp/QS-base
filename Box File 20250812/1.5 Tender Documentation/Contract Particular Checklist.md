@@ -1,0 +1,24 @@
+---
+modified: 10/05/2025
+---
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+- DLP
+	- 12 months
+- Contract Period
+- Date for Possession
+	- Within xxxxxxxxxxx
+- Date for Completion
+- Sectional Completion
+- LAD
+- Period of Interim Certificate
+- Period of Honouring Certificate
+- Retention
+	- 10% of the certified value of the Contract works plus the Retention held in respect of Nominated Sub-Contractors' and / or Nominated Suppliers' Works
+- Limit of Retention
+	- 5% of the Contract Sum excluding Prime Cost Sum of Nominated Sub-Contractors and / or Suppliers (to the nearest one thousand dollars) plus the Limit of Retention held in respect of Nominated Sub-Contractors' and / or Nominated Suppliers' Works 
+- Period of Final Account
+	- 12 months
+- Amount of Surety Bond
+	- 10% of the Contract Sum (to the nearest one thousand dollars) excluding Prime Cost Sums for any Nominated Sub-Contractor’s works
+- House rule / guideline
+- Working hour
