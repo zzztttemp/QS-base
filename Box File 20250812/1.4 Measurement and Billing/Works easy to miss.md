@@ -1,0 +1,17 @@
+---
+modified: 04/08/2025
+---
+- Interfacing
+	- Stand free
+	- Sub-frame of door (if IFO is NSC)
+	- Lift door / panel
+	- Plaster to wall to receive paint (by MC or IFO)
+- Easy to miss
+	- Tactile
+	- Manhole, surface channel, water tank
+	- Finish below and behind cabinet
+	- Door threshold
+	- Window sill
+	- Pelmet
+	- Bulkhead
+	- Painting behind baffle ceiling 
